@@ -9,7 +9,7 @@ A exibição do horário ao usuário reflete o relógio do servidor ou do comput
 Você pode acessar o projeto clicando <a href="https://amanda-hatayama.github.io/Hora-do-Dia/" target="_blank">aqui</a>
 
 
-![imagem](https://github.com/amanda-hatayama/Hora-do-Dia/assets/113062700/58aa595f-baf2-46d0-b932-dbf476b3167e)
+![imagem](https://github.com/amanda-hatayama/Hora-do-Dia/blob/e9359982554aad16352bfae97c0e2dec3b35d24d/imagem.png)
 
 
 
