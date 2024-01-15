@@ -4,6 +4,14 @@ function carregar() {
   var data = new Date();
   var hora = data.getHours();
   var min = data.getMinutes();
+  // Agendar para o próximo minuto
+    setTimeout(() => {
+        atualizarHoraCadaMinuto();
+    }, (60 - segundos) * 1000);
+}
+
+// Executar a função a primeira vez
+atualizarHoraCadaMinuto();
 
 
   msg.innerHTML = `Agora são ${hora} horas e ${min} minutos.<br>`;
